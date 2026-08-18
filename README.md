@@ -20,5 +20,4 @@ If you encounter any issues, have feedback or ideas. Please don't hesitate to cr
 We encourage your contributions to improve the Kubernetes Demo Apps! Keep in mind when you submit your pull request, you'll need to sign the CLA via the click-through using CLA-Assistant. You only have to sign the CLA one time per project.
 If you have any questions, or to execute our corporate CLA, required if your contribution is on behalf of a company,  please drop us an email at opensource@newrelic.com.
 
-## License
-Kubernetes Demo Apps is licensed under the [Apache 2.0](http://apache.org/licenses/LICENSE-2.0.txt) License.
+
